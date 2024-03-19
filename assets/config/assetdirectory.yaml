@@ -3,7 +3,7 @@ opt:
  sasspartials: ./assets/build/partials
  sassout: ./assets/build/css
  cssin: ./assets/build/css
- cssout: ./assets/optimized/css/minf1.css
+ cssout: ./assets/optimized/css/min33333333f1.css
  jsin: ./assets/build/js
- jsout: ./assets/optimized/js/min34.js
+ jsout: ./assets/optimized/js/min3333333334.js
  imgin: ./assets/optimized/img
